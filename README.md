@@ -26,4 +26,4 @@ This repository provides a flexible solution for document ingestion and vectoriz
    ```bash
    git clone https://github.com/shivanshu007/Retrieval-Augmented-Generation.git
    cd document-ingestion-vector-search
-
+For more info please go though this article on medium https://medium.com/@shivanshuk33/building-a-flexible-document-ingestion-and-vector-search-system-with-langchain-2a87546b6703
